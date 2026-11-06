@@ -2,7 +2,7 @@
 
 iPhoneなどのスマートフォン向けに、3種類の数学パズルを1つにまとめた試作版（v0.2）です。
 
-**遊ぶ:** https://yamiedrich49.github.io/TOUCH-LAB/
+**3ゲーム比較版:** https://yamiedrich49.github.io/TOUCH-LAB/\n\n**新・くるり RE:THINK（20問）:** https://yamiedrich49.github.io/TOUCH-LAB/kururi.html\n\n「くるり」新版では盤面全体を見本どおりにするのではなく、金の枠のペアだけを完成させます。4×4から6×6までの全20問を全配置探索で検証。最短1〜7手・ヒント・Undo・音ON/OFF・記録保存に対応。従来の3作品は比較のためトップページに残しています。
 
 画面上部のタブから作品を自由に切り替えられます。各5問、合計15問。外部ライブラリ不要で、`index.html` だけで動作します。
 
